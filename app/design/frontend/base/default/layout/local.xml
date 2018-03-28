@@ -1,0 +1,8 @@
+<layout version="0.1.0">
+    <default>
+        <block type="page/html" name="root" output="toHtml" template="magentotutorial/helloworld/simple_page.phtml" />
+    </default>
+    <helloworld_index_goodbye>
+        <update handle="helloworld_index_index" />
+    </helloworld_index_goodbye>
+</layout>

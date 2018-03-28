@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Yashco_Customerattr>
+            <active>true</active>
+            <codePool>local</codePool>
+            <version>1.0.1</version>
+        </Yashco_Customerattr>
+    </modules>
+</config> 

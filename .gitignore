@@ -1,0 +1,11 @@
+app/code/community/*
+app/code/core/*
+cgi-bin/*
+downloader/*
+errors/*
+includes/*
+js/*
+lib/*
+shell/*
+skin/*
+var/*

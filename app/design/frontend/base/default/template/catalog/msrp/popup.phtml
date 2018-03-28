@@ -1,0 +1,222 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magento.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magento.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2006-2017 X.commerce, Inc. and affiliates (http://www.magento.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<?php
+/**
+ * Template for MAP popup
+ *
+ */
+?>
+ <!-- get product all Stasrt -->
+    <?php
+      $request = $this->getRequest();
+      $action= $request->getRouteName().$request->getControllerName().$request->getActionName();
+    ?>
+
+    <?php if($action=="cmsindexindex") {  ?>
+    
+
+    <div class="grid-images productView-related-carousal" style="margin:20px 0;">
+        <div class="row">
+            <p class="youmay-heading">You may also be interested in the following products</p>
+            <div id="product-related-slider" class="owl-carousel owl-theme">
+                <?php 
+
+                    $_productCollection = Mage::getModel('catalog/product')
+                    ->getCollection()
+                    ->addAttributeToSort('created_at', 'DESC')
+                    ->addAttributeToSelect('*')
+                    ->addAttributeToFilter('featured', array('yes' => true))
+                    ->load();
+
+                  foreach ($_productCollection as $key => $product) { ?>
+                            <div class="item">
+                                <div class="grid1">
+                                    <a href="<?php  echo $product->getProductUrl(); ?>"> <img src="<?php echo $product->getImageUrl(); ?>"/></a>
+                                    <h3><?php echo $product->getName(); ?></h3>
+
+                                    <div class="cat-price-moreInfo-row">
+                                        <div class="price-box">
+                                            <?php $specialprice = Mage::getModel('catalog/product')->load($product->getId())->getSpecialPrice(); 
+                                    echo Mage::helper('core')->formatPrice($specialprice , true); ?>
+                                        </div>
+                                        <div class="cat-more-infoDiv">
+                                            <a href="<?php  echo $product->getProductUrl(); ?>">MORE INFO</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                <?php } ?> 
+            </div>   
+        </div>
+    </div>
+    <?php   } ?>
+
+
+
+            
+            <script type="text/javascript">
+            jQuery(function($){
+                $("#product-related-slider").owlCarousel({
+                    lazyLoad: true,
+                    itemsCustom: [ [0, 1], [320, 1], [480, 2], [640, 3], [768, 3], [992, 4], [1200, 5] ],
+                    responsiveRefreshRate: 50,
+                    slideSpeed: 200,
+                    paginationSpeed: 500,
+                    scrollPerPage: false,
+                    stopOnHover: true,
+                    rewindNav: true,
+                    rewindSpeed: 600,
+                    pagination: false,
+                    navigation: true,
+                    autoPlay: false,
+                   margin: 10,
+                   navText: ["<i class='fa fa-long-arrow-left' aria-hidden='true'></i>","<i class='fa fa-long-arrow-right' aria-hidden='true'></i>"]
+
+                });
+            });
+            </script>
+
+<!-- get product all End -->
+
+
+<!-- Related  Products sta2017 -->
+ <?php
+      $request = $this->getRequest();
+       $action= $request->getRouteName().$request->getControllerName().$request->getActionName();
+
+if($action=="catalogproductview") {  ?>
+
+<div class="container">
+
+        <div class="ship-ping-info">
+            <h2>Shipping Information</h2>
+                <div class="ship-text">
+                <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('shipping-information')->toHtml(); ?>
+                </div> 
+        </div> 
+
+   
+
+            <?php 
+            $product = Mage::registry('current_product');
+            $product_id = $product->getId();
+            $model = Mage::getModel('catalog/product');
+            $product = $model->load($product_id);
+
+            // Get all related product ids of $product.
+            $allRelatedProductIds = $product->getRelatedProductIds();
+
+            ?>
+
+         <div class="grid-images productView-related-carousal sigle-page-carousal" style="margin:20px 0;">
+                <div class="row">
+                    <p class="youmay-heading">Related  Products</p>
+                    <div id="product-related-slider1" class="owl-carousel owl-theme">
+                        <?php 
+                        if (count($allRelatedProductIds)>0) {
+                             
+                        foreach ($allRelatedProductIds as $id) 
+                          {  
+                            $relatedProduct = $model->load($id);        
+                             ?>
+                                    <div class="item">
+                                        <div class="grid1">
+                                            <a href="<?php   echo $relatedProduct->getProductUrl(); ?>"> <img src="<?php echo $relatedProduct->getImageUrl(); ?>"/></a>
+                                            <h3><?php echo $relatedProduct->getName(); ?></h3>
+
+                                            <div class="cat-price-moreInfo-row">
+                                                <div class="price-box">
+                                                    <?php $specialprice = $relatedProduct->getSpecialPrice();
+                                            echo Mage::helper('core')->formatPrice($specialprice , true); ?>
+                                                </div>
+                                                <div class="cat-more-infoDiv">
+                                                    <a href="<?php  echo $relatedProduct->getProductUrl(); ?>">MORE INFO</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                        <?php }  }else{
+                            echo "<h1>No Related  Products </h1>";
+                            } ?> 
+                    </div>   
+                </div>
+            </div>
+ </div>
+  
+ 
+<?php  } ?>
+
+ <script type="text/javascript">
+            jQuery(function($){
+                $("#product-related-slider1").owlCarousel({
+                    lazyLoad: true,
+                    itemsCustom: [ [0, 1], [320, 1], [480, 2], [640, 3], [768, 3], [992, 4], [1200, 5] ],
+                    responsiveRefreshRate: 50,
+                    slideSpeed: 200,
+                    paginationSpeed: 500,
+                    scrollPerPage: false,
+                    stopOnHover: true,
+                    rewindNav: true,
+                    rewindSpeed: 600,
+                    pagination: false,
+                    navigation: true,
+                    autoPlay: false,
+                   margin: 10,
+                   navText: ["<i class='fa fa-long-arrow-left' aria-hidden='true'></i>","<i class='fa fa-long-arrow-right' aria-hidden='true'></i>"]
+
+                });
+            });
+            </script>
+<!-- Related  Products sta2017 -->
+
+<?php if (Mage::helper('catalog')->isMsrpEnabled()): ?>
+<div id="map-popup" class="map-popup" style="display:none;">
+    <a href="#" class="map-popup-close" id="map-popup-close">x</a>
+    <div class="map-popup-arrow"></div>
+    <div class="map-popup-heading"><h2 id="map-popup-heading"></h2></div>
+    <div class="map-popup-content" id="map-popup-content">
+        <div class="map-popup-checkout">
+            <form action="" method="POST" id="product_addtocart_form_from_popup">
+                <input type="hidden" name="product" class="product_id" value="" id="map-popup-product-id" />
+                <div class="additional-addtocart-box">
+                    <?php echo $this->getChildHtml(); ?>
+                </div>
+                <button type="button" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Add to Cart')) ?>" class="button btn-cart" id="map-popup-button"><span><span><?php echo $this->__('Add to Cart') ?></span></span></button>
+            </form>
+        </div>
+        <div class="map-popup-msrp" id="map-popup-msrp-box"><strong><?php echo $this->__('Price'); ?>:</strong> <span style="text-decoration:line-through;" id="map-popup-msrp"></span></div>
+        <div class="map-popup-price" id="map-popup-price-box"><strong><?php echo $this->__('Actual Price'); ?>:</strong> <span id="map-popup-price"></span></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            document.observe("dom:loaded", Catalog.Map.bindProductForm);
+        //]]>
+        </script>
+    </div>
+    <div class="map-popup-text" id="map-popup-text"><?php echo Mage::helper('catalog')->getMsrpExplanationMessage(); ?></div>
+    <div class="map-popup-text" id="map-popup-text-what-this"><?php echo Mage::helper('catalog')->getMsrpExplanationMessageWhatsThis(); ?></div>
+</div>
+<?php endif; ?>

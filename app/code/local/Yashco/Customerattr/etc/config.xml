@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+    <config>
+        <modules>
+            <Yashco_Customerattr>
+                <version>1.0.1</version>
+            </Yashco_Customerattr>
+        </modules>
+        <global>
+
+            <resources>
+                <yashco_customerattr_setup>
+                    <setup>
+                        <module>Yashco_Customerattr</module>
+                        <class>Mage_Customer_Model_Entity_Setup</class>
+                    </setup>
+                    <connection>
+                        <use>core_setup</use>
+                    </connection>
+                </yashco_customerattr_setup>
+                <Yashco_Customerattr_write>
+                    <connection>
+                        <use>core_write</use>
+                    </connection>
+                </Yashco_Customerattr_write>
+                <Yashco_Customerattr_read>
+                    <connection>
+                        <use>core_read</use>
+                    </connection>
+                </Yashco_Customerattr_read>
+            </resources>
+        </global>
+
+    </config>
+
+
