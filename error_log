@@ -1,0 +1,944 @@
+[21-Jul-2016 07:40:57 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:22:26 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:31:41 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:32:13 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:33:38 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:33:42 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:33:43 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:33:43 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Aug-2016 13:33:43 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Aug-2016 05:07:26 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Aug-2016 05:07:27 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Aug-2016 23:01:56 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Aug-2016 23:01:56 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Sep-2016 23:53:08 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Sep-2016 06:55:25 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Sep-2016 17:07:40 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Sep-2016 15:19:06 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Sep-2016 01:57:15 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Sep-2016 01:44:59 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Sep-2016 02:01:28 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Sep-2016 02:32:05 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Sep-2016 01:42:38 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Oct-2016 16:25:01 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Oct-2016 08:13:05 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2016 06:15:46 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2016 06:15:46 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2016 18:08:41 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Oct-2016 22:13:40 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Oct-2016 22:18:52 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Oct-2016 22:23:09 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:01:41 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:01:46 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:02:17 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:02:22 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:02:46 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:02:51 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:03:30 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 02:03:34 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:40:06 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:40:10 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:40:42 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:40:46 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:41:11 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:41:15 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:41:53 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Nov-2016 03:41:57 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2016 01:47:18 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Nov-2016 17:11:39 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Nov-2016 11:08:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Nov-2016 23:28:30 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Nov-2016 09:20:35 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Nov-2016 12:31:15 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Nov-2016 21:13:09 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Nov-2016 22:11:00 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Nov-2016 07:43:23 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Nov-2016 16:44:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Nov-2016 02:11:30 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2016 17:52:28 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2016 18:51:17 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2016 21:49:29 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Dec-2016 01:17:56 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Dec-2016 01:18:23 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Dec-2016 01:18:23 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Dec-2016 13:54:27 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[30-Dec-2016 19:45:42 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Jan-2017 21:16:23 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Jan-2017 05:45:10 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 05:45:19 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 05:45:29 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 05:45:40 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:28:59 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:29:10 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:29:16 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:29:19 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:29:21 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:32:01 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:32:04 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:32:06 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:32:08 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[26-Jan-2017 22:32:11 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 01:13:30 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 01:13:37 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 01:13:40 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 01:13:42 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 01:13:45 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 05:59:39 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 05:59:48 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 05:59:59 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 06:00:09 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 10:31:01 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 11:42:19 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 11:42:33 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 11:42:45 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 17:48:26 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 17:48:51 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 19:54:28 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 21:13:25 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 23:30:10 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 23:30:18 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[27-Jan-2017 23:38:24 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 02:34:27 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 02:34:36 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 04:07:20 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 04:31:33 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 04:41:41 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 04:49:54 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 05:06:54 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 05:13:36 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 06:20:40 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 06:20:47 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 06:20:57 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 06:21:08 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 09:05:10 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 09:05:24 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 13:01:53 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 13:02:00 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[28-Jan-2017 14:47:31 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[29-Jan-2017 05:48:07 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[29-Jan-2017 05:48:35 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[29-Jan-2017 19:27:39 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[29-Jan-2017 19:27:45 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[29-Jan-2017 22:17:43 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 00:21:20 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 01:56:46 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 04:00:44 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 05:56:44 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 05:56:50 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 05:57:01 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 05:57:12 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 10:56:30 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 10:57:04 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 11:49:30 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 12:14:19 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 13:13:59 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[30-Jan-2017 22:12:02 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 01:36:35 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 01:37:00 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 03:07:50 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 04:19:13 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 06:04:23 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 06:04:53 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 09:57:40 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 11:01:51 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 11:01:57 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 11:01:59 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 11:02:01 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 11:02:04 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 11:02:06 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 12:42:00 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 14:19:13 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 14:19:34 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 14:38:43 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 15:32:05 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 16:15:52 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 16:19:04 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 16:23:09 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 16:43:14 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 16:57:44 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[31-Jan-2017 18:43:09 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 00:45:28 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:22 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:31 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:32 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:32 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[01-Feb-2017 03:14:33 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:38 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:40 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:14:46 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:48:02 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:48:14 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 03:57:36 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 04:41:29 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 04:41:31 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 04:41:32 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 05:51:01 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 05:51:08 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 05:51:19 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 05:51:29 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 08:36:35 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 09:19:23 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 09:47:18 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 14:41:04 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 16:20:39 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 16:21:00 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 17:46:05 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 17:46:13 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 17:46:30 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 17:46:40 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 18:28:08 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 19:13:07 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[01-Feb-2017 19:32:38 Australia/Perth] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php56/usr/lib64/php/modules/imagick.so' - /opt/alt/php56/usr/lib64/php/modules/imagick.so: undefined symbol: MagickCompositeImageGravity in Unknown on line 0
+[13-Feb-2017 14:16:37 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Feb-2017 21:43:12 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2017 16:22:35 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2017 16:22:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2017 16:22:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2017 16:22:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2017 16:22:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Feb-2017 16:22:36 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Feb-2017 17:25:42 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Feb-2017 17:57:53 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Feb-2017 14:38:16 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Mar-2017 03:06:28 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Mar-2017 20:08:08 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Mar-2017 20:08:08 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Mar-2017 20:32:46 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Mar-2017 01:23:05 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Mar-2017 01:23:28 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Apr-2017 22:46:33 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Apr-2017 23:20:03 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Apr-2017 15:34:32 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Apr-2017 15:35:07 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Apr-2017 21:33:09 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-May-2017 13:09:23 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-May-2017 17:13:11 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-May-2017 17:13:11 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-May-2017 17:31:58 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[11-May-2017 17:31:59 Australia/Perth] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Mar-2018 21:12:32 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:12:41 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:12:41 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:12:47 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:13:27 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:13:31 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:13:33 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:13:33 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:14:34 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:14:34 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:14:47 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:14:48 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:14:48 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:15:05 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:15:05 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:15:32 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 827
+[05-Mar-2018 21:15:46 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 827
+[05-Mar-2018 21:15:51 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:16:04 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:16:23 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:16:33 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:16:33 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:01 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:01 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:05 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:18 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:22 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:33 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:34 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:46 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:54 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:58 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:17:59 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:00 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:01 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:23 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:40 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:42 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:43 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:46 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:18:54 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 486
+[05-Mar-2018 21:19:24 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:19:32 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 827
+[05-Mar-2018 21:19:53 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:19:53 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:19:53 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:10 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:10 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:11 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:14 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:22 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:22 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:43 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:54 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:20:55 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:05 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:13 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:13 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:19 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:19 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:58 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:21:59 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:22:42 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 486
+[05-Mar-2018 21:22:55 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:22:57 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:23:04 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 486
+[05-Mar-2018 21:23:18 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:23:19 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 827
+[05-Mar-2018 21:23:26 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 486
+[05-Mar-2018 21:23:29 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 486
+[05-Mar-2018 21:23:32 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:23:35 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:23:44 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:24:17 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:24:48 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:02 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:03 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:03 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:12 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:35 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:36 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:36 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:25:49 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:26:12 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:26:13 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:26:34 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:26:57 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:26:59 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:26:59 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:00 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:07 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 827
+[05-Mar-2018 21:27:35 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:44 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:46 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:47 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:48 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:48 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:49 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:27:52 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:28:34 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:28:34 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:28:35 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:28:40 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:29:13 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:29:42 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:29:44 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:29:45 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:29:47 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:30:09 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:30:31 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:30:47 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:30:50 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 486
+[05-Mar-2018 21:30:53 UTC] PHP Fatal error:  Call to undefined function iconv_strpos() in /home15/bonfectc/public_html/lib/Zend/Locale/Format.php on line 827
+[05-Mar-2018 21:31:02 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:09 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:17 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:31 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:31 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:32 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:32 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:36 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:36 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:31:36 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:07 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:12 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:13 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:13 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:14 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:17 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:21 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:23 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:24 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:25 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:27 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:29 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:31 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:33 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:36 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:40 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:42 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:44 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:46 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:48 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[05-Mar-2018 21:32:50 UTC] PHP Fatal error:  Call to undefined function iconv_substr() in /home15/bonfectc/public_html/app/code/core/Mage/Core/Helper/String.php on line 103
+[06-Mar-2018 02:22:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1134
+[06-Mar-2018 02:26:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 254
+[06-Mar-2018 02:59:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[06-Mar-2018 04:09:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1166
+[06-Mar-2018 04:22:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 2426
+[06-Mar-2018 13:05:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 740
+[06-Mar-2018 17:38:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[06-Mar-2018 20:10:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 445
+[07-Mar-2018 00:02:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php on line 513 and defined in /home15/bonfectc/public_html/lib/Varien/Object.php:243
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php(513): Varien_Object->addData(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Mage_Adminhtml_Catalog_ProductController->validateAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('validate')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core in /home15/bonfectc/public_html/lib/Varien/Object.php on line 243
+[07-Mar-2018 03:05:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Eav/Attribute.php on line 248
+[07-Mar-2018 03:38:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 150
+[07-Mar-2018 03:39:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[07-Mar-2018 05:18:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 380
+[07-Mar-2018 12:19:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[07-Mar-2018 13:21:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[07-Mar-2018 16:44:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 465
+[07-Mar-2018 16:45:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Category.php on line 129
+[07-Mar-2018 16:45:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Select.php on line 278
+[07-Mar-2018 16:45:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[07-Mar-2018 16:45:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 628
+[07-Mar-2018 16:45:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 88
+[07-Mar-2018 16:46:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[07-Mar-2018 16:46:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 1641
+[07-Mar-2018 16:46:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 433
+[07-Mar-2018 16:46:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[07-Mar-2018 16:47:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 448
+[07-Mar-2018 16:48:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[07-Mar-2018 16:55:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 758
+[07-Mar-2018 17:27:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[07-Mar-2018 19:53:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 181
+[08-Mar-2018 08:14:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[08-Mar-2018 11:05:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[08-Mar-2018 15:22:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 931
+[08-Mar-2018 17:50:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 344
+[08-Mar-2018 19:38:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 517
+[08-Mar-2018 20:13:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[08-Mar-2018 23:04:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1171
+[08-Mar-2018 23:47:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 164
+[09-Mar-2018 00:18:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Eav/Attribute.php on line 248
+[09-Mar-2018 01:12:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Config.php on line 461
+[09-Mar-2018 02:27:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 871
+[09-Mar-2018 18:43:18 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[09-Mar-2018 10:44:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 166
+[09-Mar-2018 18:05:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[09-Mar-2018 18:37:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[09-Mar-2018 19:09:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[09-Mar-2018 20:05:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 515
+[09-Mar-2018 22:21:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 367
+[10-Mar-2018 06:11:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[10-Mar-2018 12:16:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[10-Mar-2018 13:38:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[10-Mar-2018 14:50:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[10-Mar-2018 15:02:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[10-Mar-2018 18:28:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 529
+[10-Mar-2018 18:55:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Abstract.php on line 99
+[10-Mar-2018 23:57:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Store.php on line 374
+[11-Mar-2018 01:59:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[11-Mar-2018 22:55:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 254
+[12-Mar-2018 01:35:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 639
+[12-Mar-2018 01:58:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[12-Mar-2018 02:01:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Locale.php on line 1935
+[12-Mar-2018 02:17:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 475
+[12-Mar-2018 04:52:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[12-Mar-2018 05:07:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[12-Mar-2018 07:28:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 251
+[12-Mar-2018 07:31:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 58
+[12-Mar-2018 08:19:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Store.php on line 1040
+[12-Mar-2018 12:00:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 608
+[12-Mar-2018 12:25:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 640
+[12-Mar-2018 13:45:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 150
+[12-Mar-2018 15:19:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 288
+[12-Mar-2018 23:33:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 476
+[13-Mar-2018 00:13:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[13-Mar-2018 00:31:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 476
+[13-Mar-2018 07:40:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 620
+[13-Mar-2018 08:23:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Eav/Attribute.php on line 248
+[14-Mar-2018 03:36:31 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Mar-2018 03:36:31 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[14-Mar-2018 04:18:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 58
+[14-Mar-2018 08:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[14-Mar-2018 08:42:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Config.php on line 462
+[14-Mar-2018 11:05:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 90
+[14-Mar-2018 11:06:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1022
+[14-Mar-2018 11:06:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[14-Mar-2018 11:07:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[14-Mar-2018 11:08:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 340
+[14-Mar-2018 11:08:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1015
+[14-Mar-2018 11:08:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 635
+[14-Mar-2018 11:08:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 463
+[14-Mar-2018 11:09:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[14-Mar-2018 11:09:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[14-Mar-2018 11:09:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 494
+[14-Mar-2018 11:09:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 390
+[14-Mar-2018 11:09:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[14-Mar-2018 11:09:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[14-Mar-2018 22:10:05 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[14-Mar-2018 11:10:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[14-Mar-2018 13:34:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Statement.php on line 194
+[14-Mar-2018 13:50:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 74
+[14-Mar-2018 15:43:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 1719
+[14-Mar-2018 15:43:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 114688 bytes) in Unknown on line 0
+[14-Mar-2018 23:58:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 528
+[15-Mar-2018 00:26:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Time/Created.php on line 85
+[15-Mar-2018 01:23:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 448
+[15-Mar-2018 02:38:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 437
+[15-Mar-2018 03:30:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[15-Mar-2018 03:32:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1041
+[15-Mar-2018 03:33:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 380
+[15-Mar-2018 03:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[15-Mar-2018 04:18:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 74
+[15-Mar-2018 04:45:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) in /home15/bonfectc/public_html/lib/Zend/Locale/Data.php on line 1355
+[15-Mar-2018 09:37:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 266
+[15-Mar-2018 13:22:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[16-Mar-2018 06:12:19 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1032
+[16-Mar-2018 04:49:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Category.php on line 550
+[16-Mar-2018 04:50:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 615
+[16-Mar-2018 04:51:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 181
+[16-Mar-2018 04:52:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Abstract.php on line 99
+[16-Mar-2018 04:54:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 344
+[16-Mar-2018 04:55:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1011
+[16-Mar-2018 04:56:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 628
+[16-Mar-2018 06:21:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 738
+[16-Mar-2018 09:11:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 298
+[16-Mar-2018 11:56:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 381
+[16-Mar-2018 14:55:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[16-Mar-2018 16:11:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[16-Mar-2018 16:57:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 519
+[16-Mar-2018 17:02:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[16-Mar-2018 22:14:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 73
+[16-Mar-2018 22:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[17-Mar-2018 03:38:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Config.php on line 1357
+[17-Mar-2018 09:28:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 512
+[17-Mar-2018 09:29:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Locale.php on line 1925
+[17-Mar-2018 11:47:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 524
+[17-Mar-2018 12:06:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[17-Mar-2018 12:41:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Abstract.php on line 166
+[17-Mar-2018 16:13:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 974
+[17-Mar-2018 17:58:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 1503
+[17-Mar-2018 19:48:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[17-Mar-2018 22:04:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Config.php on line 458
+[18-Mar-2018 02:15:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 1374
+[18-Mar-2018 04:46:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 483
+[18-Mar-2018 06:52:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 203
+[18-Mar-2018 09:21:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 639
+[18-Mar-2018 12:07:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 528
+[18-Mar-2018 18:20:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 90
+[19-Mar-2018 02:08:42 UTC] PHP Fatal error:  Uncaught Error: Class 'SoapClient' not found in /home15/bonfectc/public_html/categorytree.php:2
+Stack trace:
+#0 {main}
+  thrown in /home15/bonfectc/public_html/categorytree.php on line 2
+[19-Mar-2018 02:09:20 UTC] PHP Fatal error:  Uncaught Error: Class 'SoapClient' not found in /home15/bonfectc/public_html/categorytree.php:2
+Stack trace:
+#0 {main}
+  thrown in /home15/bonfectc/public_html/categorytree.php on line 2
+[19-Mar-2018 02:09:30 UTC] PHP Fatal error:  Uncaught Error: Class 'SoapClient' not found in /home15/bonfectc/public_html/categorytree.php:2
+Stack trace:
+#0 {main}
+  thrown in /home15/bonfectc/public_html/categorytree.php on line 2
+[19-Mar-2018 02:09:41 UTC] PHP Fatal error:  Uncaught Error: Class 'SoapClient' not found in /home15/bonfectc/public_html/categorytree.php:2
+Stack trace:
+#0 {main}
+  thrown in /home15/bonfectc/public_html/categorytree.php on line 2
+[19-Mar-2018 02:09:46 UTC] PHP Fatal error:  Uncaught Error: Class 'SoapClient' not found in /home15/bonfectc/public_html/categorytree.php:2
+Stack trace:
+#0 {main}
+  thrown in /home15/bonfectc/public_html/categorytree.php on line 2
+[19-Mar-2018 02:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[19-Mar-2018 02:56:34 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 02:56:35 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:05:32 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:05:34 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:06:20 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:06:21 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:11:39 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:11:40 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:12:22 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:12:24 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 03:20:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[19-Mar-2018 04:12:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 298
+[19-Mar-2018 04:30:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 340
+[19-Mar-2018 04:31:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[19-Mar-2018 04:41:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 592
+[19-Mar-2018 04:47:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 58
+[19-Mar-2018 05:04:01 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 05:04:02 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Mar-2018 05:36:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[19-Mar-2018 17:37:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Config.php on line 1357
+[19-Mar-2018 17:37:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 114688 bytes) in Unknown on line 0
+[19-Mar-2018 21:47:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[20-Mar-2018 07:16:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php on line 1372
+[20-Mar-2018 10:12:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[20-Mar-2018 11:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setBlockId() on boolean in /home15/bonfectc/public_html/app/design/frontend/smartwave/porto/template/review/product_info_review.phtml:69
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Template.php(241): include()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Template.php(272): Mage_Core_Block_Template->fetchView('frontend/smartw...')
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Template.php(286): Mage_Core_Block_Template->renderView()
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Review/Block/Product/View.php(47): Mage_Core_Block_Template->_toHtml()
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(923): Mage_Review_Block_Product_View->_toHtml()
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#6 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml( in /home15/bonfectc/public_html/app/design/frontend/smartwave/porto/template/review/product_info_review.phtml on line 69
+[20-Mar-2018 11:12:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[20-Mar-2018 12:01:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 529
+[20-Mar-2018 12:01:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Abstract.php on line 180
+[20-Mar-2018 12:01:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[20-Mar-2018 13:03:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[20-Mar-2018 18:56:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[20-Mar-2018 19:08:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[20-Mar-2018 19:19:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 639
+[20-Mar-2018 23:19:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 519
+[21-Mar-2018 06:25:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 381
+[21-Mar-2018 06:25:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[21-Mar-2018 06:26:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 74
+[21-Mar-2018 06:26:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[21-Mar-2018 06:26:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 706
+[21-Mar-2018 06:27:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 253
+[21-Mar-2018 06:27:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 961
+[21-Mar-2018 06:27:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[21-Mar-2018 06:28:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[21-Mar-2018 06:28:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[21-Mar-2018 06:29:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 639
+[21-Mar-2018 06:29:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 87
+[21-Mar-2018 06:29:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[21-Mar-2018 06:29:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Statement/Pdo/Mysql.php on line 110
+[21-Mar-2018 06:30:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[21-Mar-2018 06:30:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 74
+[21-Mar-2018 12:52:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 381
+[21-Mar-2018 18:21:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[22-Mar-2018 04:05:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 757
+[22-Mar-2018 04:06:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 266
+[22-Mar-2018 04:07:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1171
+[22-Mar-2018 04:12:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Category.php on line 684
+[22-Mar-2018 15:27:53 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 323
+[22-Mar-2018 05:55:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 528
+[22-Mar-2018 06:39:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 380
+[22-Mar-2018 06:39:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[22-Mar-2018 06:39:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[22-Mar-2018 10:55:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[22-Mar-2018 16:11:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[23-Mar-2018 04:10:47 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[22-Mar-2018 18:58:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 173
+[22-Mar-2018 18:58:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 433
+[22-Mar-2018 23:54:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 667
+[23-Mar-2018 00:03:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[23-Mar-2018 00:28:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 298
+[23-Mar-2018 01:46:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1257
+[23-Mar-2018 01:47:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[23-Mar-2018 01:47:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 999
+[23-Mar-2018 01:48:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[23-Mar-2018 03:37:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 448
+[23-Mar-2018 03:44:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 767
+[23-Mar-2018 04:54:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Profiler.php on line 81
+[23-Mar-2018 06:27:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 90
+[23-Mar-2018 06:27:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Abstract.php on line 180
+[23-Mar-2018 06:27:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 340
+[23-Mar-2018 06:27:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 3094
+[23-Mar-2018 06:28:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[23-Mar-2018 06:28:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 606
+[23-Mar-2018 06:28:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1091
+[23-Mar-2018 06:28:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 697
+[23-Mar-2018 06:29:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[23-Mar-2018 06:29:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 461
+[23-Mar-2018 06:29:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[23-Mar-2018 06:30:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[23-Mar-2018 06:30:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[23-Mar-2018 06:30:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Statement.php on line 182
+[23-Mar-2018 06:30:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 573
+[23-Mar-2018 06:31:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 509
+[23-Mar-2018 08:19:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Abstract.php on line 99
+[23-Mar-2018 10:42:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[23-Mar-2018 12:03:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[23-Mar-2018 17:04:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 758
+[23-Mar-2018 17:17:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 945
+[23-Mar-2018 21:50:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Select.php on line 69
+[24-Mar-2018 01:49:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[24-Mar-2018 05:19:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Category/Attribute/Backend/Sortby.php on line 116
+[24-Mar-2018 08:33:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Helper/Flat/Abstract.php on line 106
+[24-Mar-2018 08:34:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 254
+[24-Mar-2018 08:35:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Config.php on line 1357
+[24-Mar-2018 08:37:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[24-Mar-2018 08:38:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 58
+[24-Mar-2018 08:39:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[24-Mar-2018 08:39:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 337
+[24-Mar-2018 08:41:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 90
+[24-Mar-2018 08:42:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Select.php on line 123
+[24-Mar-2018 08:43:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 593
+[24-Mar-2018 08:44:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 193
+[24-Mar-2018 08:46:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 741
+[24-Mar-2018 08:46:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[24-Mar-2018 08:47:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Category.php on line 128
+[24-Mar-2018 10:09:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 807
+[24-Mar-2018 10:09:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[24-Mar-2018 11:07:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Config.php on line 1233
+[24-Mar-2018 12:21:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[24-Mar-2018 12:44:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[24-Mar-2018 13:08:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Eav/Attribute.php on line 248
+[24-Mar-2018 13:09:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[24-Mar-2018 15:41:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1029
+[24-Mar-2018 22:12:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1043
+[24-Mar-2018 23:44:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[25-Mar-2018 04:54:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 296
+[25-Mar-2018 06:57:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Time/Created.php on line 45
+[25-Mar-2018 15:18:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Locale.php on line 1721
+[25-Mar-2018 15:20:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[25-Mar-2018 16:41:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 173
+[25-Mar-2018 16:41:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[25-Mar-2018 16:43:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 344
+[25-Mar-2018 16:43:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 380
+[25-Mar-2018 16:43:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1154
+[25-Mar-2018 16:43:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1076
+[25-Mar-2018 17:03:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[25-Mar-2018 17:05:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 968
+[25-Mar-2018 19:42:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 503
+[26-Mar-2018 01:42:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[26-Mar-2018 03:25:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 181
+[26-Mar-2018 13:05:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 740
+[26-Mar-2018 13:05:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[26-Mar-2018 13:05:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[26-Mar-2018 13:06:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Config.php on line 463
+[26-Mar-2018 20:58:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[26-Mar-2018 20:58:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[26-Mar-2018 21:00:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[26-Mar-2018 21:00:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1163
+[27-Mar-2018 02:53:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Locale.php on line 173
+[27-Mar-2018 10:26:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1034
+[27-Mar-2018 11:43:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 962
+[27-Mar-2018 14:43:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[28-Mar-2018 00:33:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function load() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php:225
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/local/Magentotutorial/Weblog/controllers/IndexController.php(7): Mage_Core_Model_Abstract->load(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Magentotutorial_Weblog_IndexController->testModelAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('testModel')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core_Controller_Varien_Front->dispatch()
+#5 /home15/bonfectc/public_html/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#6 /home15/bonfectc/public_html/i in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 225
+[28-Mar-2018 00:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function load() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php:225
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/local/Magentotutorial/Weblog/controllers/IndexController.php(7): Mage_Core_Model_Abstract->load('1')
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Magentotutorial_Weblog_IndexController->testModelAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('testModel')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core_Controller_Varien_Front->dispatch()
+#5 /home15/bonfectc/public_html/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#6 /home15/bonfectc/public_html/in in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 225
+[28-Mar-2018 04:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[28-Mar-2018 05:46:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 639
+[28-Mar-2018 08:08:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 448
+[28-Mar-2018 09:05:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 741
+[28-Mar-2018 09:19:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 207
+[28-Mar-2018 09:19:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 139
+[28-Mar-2018 09:20:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[28-Mar-2018 09:20:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[28-Mar-2018 09:22:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 519
+[28-Mar-2018 09:22:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1042
+[28-Mar-2018 09:22:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[28-Mar-2018 09:22:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[28-Mar-2018 10:05:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1001
+[28-Mar-2018 10:06:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[28-Mar-2018 10:06:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[28-Mar-2018 10:07:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1022
+[28-Mar-2018 10:07:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 740
+[28-Mar-2018 10:07:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/local/Smartwave/Porto/Helper/Data.php on line 221
+[28-Mar-2018 10:08:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 512
+[28-Mar-2018 10:08:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 381
+[28-Mar-2018 10:08:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 267
+[28-Mar-2018 10:08:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[28-Mar-2018 18:56:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1198
+[28-Mar-2018 19:24:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[28-Mar-2018 20:27:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 706
+[29-Mar-2018 00:09:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Magentotutorial_Complexworld_Model_Resource_Setup' not found in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Resource/Setup.php:234
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(428): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(354): Mage_Core_Model_App->_initModules()
+#2 /home15/bonfectc/public_html/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#3 /home15/bonfectc/public_html/index.php(83): Mage::run('', 'store')
+#4 {main}
+  thrown in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Resource/Setup.php on line 234
+[29-Mar-2018 01:24:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[29-Mar-2018 07:57:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Statement.php on line 198
+[29-Mar-2018 17:25:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 758
+[29-Mar-2018 19:32:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[29-Mar-2018 22:11:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 739
+[30-Mar-2018 00:14:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[30-Mar-2018 05:59:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[30-Mar-2018 09:36:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 871
+[30-Mar-2018 09:36:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 625
+[30-Mar-2018 09:36:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 380
+[30-Mar-2018 09:36:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 517
+[30-Mar-2018 10:37:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1001
+[30-Mar-2018 10:38:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[30-Mar-2018 10:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[30-Mar-2018 11:48:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[30-Mar-2018 11:49:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 628
+[30-Mar-2018 23:30:51 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1034
+[30-Mar-2018 12:45:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php on line 1293
+[30-Mar-2018 13:31:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Pdo/Abstract.php on line 184
+[30-Mar-2018 14:33:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setLayer() on boolean in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php:134
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Core/Block/Abstract.php(297): Mage_Catalog_Block_Layer_View->_prepareLayout()
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(456): Mage_Core_Block_Abstract->setLayout(Object(Smartwave_All_Model_Core_Layout))
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(472): Mage_Core_Model_Layout->createBlock('catalog/layer_v...', 'catalog.leftnav')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Layout.php(239): Mage_Core_Model_Layout->addBlock('catalog/layer_v...', 'catalog.leftnav')
+#4 /home15/bonfectc/public_html/app/code/local/Smartwave/All/Model/Core/Layout.php(40): Mage_Core_Model_Layout->_generateBlock(Object(Mage_Core_Model_Layout_Element), Object(Mage_Core_Model_Layout_Element))
+#5 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/ in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Block/Layer/View.php on line 134
+[30-Mar-2018 15:55:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Time/Created.php on line 86
+[30-Mar-2018 20:59:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Statement.php on line 110
+[30-Mar-2018 20:59:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Category/Attribute/Backend/Sortby.php on line 116
+[30-Mar-2018 20:59:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 254
+[31-Mar-2018 07:59:32 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 321
+[30-Mar-2018 20:59:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 401
+[30-Mar-2018 20:59:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 807
+[31-Mar-2018 01:53:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 254
+[31-Mar-2018 07:00:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[31-Mar-2018 18:26:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1007
+[01-Apr-2018 00:23:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[01-Apr-2018 00:24:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1134
+[01-Apr-2018 01:07:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[01-Apr-2018 01:27:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 173
+[01-Apr-2018 01:27:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 390
+[01-Apr-2018 04:16:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 351
+[01-Apr-2018 04:56:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Config.php on line 1222
+[01-Apr-2018 05:44:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Store.php on line 374
+[01-Apr-2018 05:54:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[01-Apr-2018 07:54:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 437
+[01-Apr-2018 08:10:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[01-Apr-2018 13:27:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[01-Apr-2018 13:27:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[01-Apr-2018 19:25:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 667
+[02-Apr-2018 01:14:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 113
+[02-Apr-2018 01:16:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 463
+[02-Apr-2018 01:16:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[02-Apr-2018 01:17:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[02-Apr-2018 05:58:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[02-Apr-2018 06:12:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[02-Apr-2018 15:02:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php on line 851
+[02-Apr-2018 19:54:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Locale.php on line 1939
+[02-Apr-2018 22:57:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 150
+[02-Apr-2018 23:05:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[02-Apr-2018 23:06:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[02-Apr-2018 23:15:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[02-Apr-2018 23:16:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 88
+[02-Apr-2018 23:18:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[02-Apr-2018 23:19:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[02-Apr-2018 23:20:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 1029
+[02-Apr-2018 23:21:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 164
+[02-Apr-2018 23:22:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[02-Apr-2018 23:26:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Config.php on line 1230
+[02-Apr-2018 23:27:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 73
+[02-Apr-2018 23:28:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1015
+[02-Apr-2018 23:55:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 739
+[03-Apr-2018 00:44:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[03-Apr-2018 02:03:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 445
+[03-Apr-2018 03:04:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 2258
+[03-Apr-2018 03:46:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 521
+[03-Apr-2018 03:46:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 494
+[03-Apr-2018 03:52:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 91
+[03-Apr-2018 06:59:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 96
+[03-Apr-2018 07:01:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 1015
+[03-Apr-2018 07:02:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 462
+[03-Apr-2018 07:03:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 739
+[03-Apr-2018 07:06:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 192
+[03-Apr-2018 07:53:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 630
+[03-Apr-2018 08:26:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[04-Apr-2018 01:14:12 Australia/Sydney] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[03-Apr-2018 18:43:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 254
+[03-Apr-2018 20:13:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Date/DateObject.php on line 1031
+[04-Apr-2018 04:01:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Varien/Object.php on line 366
+[04-Apr-2018 04:34:06 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php on line 513 and defined in /home15/bonfectc/public_html/lib/Varien/Object.php:243
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php(513): Varien_Object->addData(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Mage_Adminhtml_Catalog_ProductController->validateAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('validate')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core in /home15/bonfectc/public_html/lib/Varien/Object.php on line 243
+[04-Apr-2018 04:34:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php on line 513 and defined in /home15/bonfectc/public_html/lib/Varien/Object.php:243
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php(513): Varien_Object->addData(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Mage_Adminhtml_Catalog_ProductController->validateAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('validate')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core in /home15/bonfectc/public_html/lib/Varien/Object.php on line 243
+[04-Apr-2018 04:35:06 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php on line 513 and defined in /home15/bonfectc/public_html/lib/Varien/Object.php:243
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php(513): Varien_Object->addData(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Mage_Adminhtml_Catalog_ProductController->validateAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('validate')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core in /home15/bonfectc/public_html/lib/Varien/Object.php on line 243
+[04-Apr-2018 04:35:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php on line 513 and defined in /home15/bonfectc/public_html/lib/Varien/Object.php:243
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php(513): Varien_Object->addData(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Mage_Adminhtml_Catalog_ProductController->validateAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('validate')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core in /home15/bonfectc/public_html/lib/Varien/Object.php on line 243
+[04-Apr-2018 04:38:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Varien_Object::addData() must be of the type array, null given, called in /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php on line 513 and defined in /home15/bonfectc/public_html/lib/Varien/Object.php:243
+Stack trace:
+#0 /home15/bonfectc/public_html/app/code/core/Mage/Adminhtml/controllers/Catalog/ProductController.php(513): Varien_Object->addData(NULL)
+#1 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Action.php(418): Mage_Adminhtml_Catalog_ProductController->validateAction()
+#2 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(254): Mage_Core_Controller_Varien_Action->dispatch('validate')
+#3 /home15/bonfectc/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
+#4 /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/App.php(365): Mage_Core in /home15/bonfectc/public_html/lib/Varien/Object.php on line 243
+[04-Apr-2018 05:13:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Eav/Attribute.php on line 248
+[04-Apr-2018 05:16:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 667
+[04-Apr-2018 06:09:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Statement.php on line 194
+[04-Apr-2018 06:10:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Locale.php on line 547
+[04-Apr-2018 09:57:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 449
+[04-Apr-2018 15:10:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[04-Apr-2018 15:10:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[04-Apr-2018 15:10:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 73
+[04-Apr-2018 15:10:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Eav/Attribute.php on line 248
+[04-Apr-2018 15:52:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 1091
+[04-Apr-2018 19:36:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 188
+[04-Apr-2018 19:36:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Config.php on line 452
+[04-Apr-2018 19:37:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 182
+[04-Apr-2018 19:38:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Attribute/Abstract.php on line 173
+[04-Apr-2018 19:39:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 1719
+[04-Apr-2018 19:39:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 680
+[04-Apr-2018 19:39:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Core/Model/Abstract.php on line 154
+[04-Apr-2018 19:39:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Db/Select.php on line 741
+[04-Apr-2018 19:40:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[04-Apr-2018 19:40:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Zend/Date.php on line 594
+[04-Apr-2018 19:40:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Eav/Model/Entity/Abstract.php on line 657
+[04-Apr-2018 19:40:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/code/core/Mage/Catalog/Model/Resource/Abstract.php on line 90
+[04-Apr-2018 19:46:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Adapter/Abstract.php on line 758
+[04-Apr-2018 19:47:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/lib/Zend/Db/Statement/Pdo.php on line 228
+[04-Apr-2018 20:33:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home15/bonfectc/public_html/app/Mage.php on line 448

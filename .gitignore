@@ -9,3 +9,5 @@ lib/*
 shell/*
 skin/*
 var/*
+media/*
+dev/*
