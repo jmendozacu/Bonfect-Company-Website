@@ -243,4 +243,4 @@ Require all denied
 Require all denied
 
     </Files>
-##SetEnv MAGE_IS_DEVELOPER_MODE "true"
+SetEnv MAGE_IS_DEVELOPER_MODE "true"
