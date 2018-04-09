@@ -1,8 +1,8 @@
-<config>
-    <modules>
-        <Magentotutorial_Complexworld>
-            <active>true</active>
-            <codePool>local</codePool>
-        </Magentotutorial_Complexworld>
-    </modules>
-</config>
+<config>
+    <modules>
+        <Magentotutorial_Complexworld>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Magentotutorial_Complexworld>
+    </modules>
+</config>

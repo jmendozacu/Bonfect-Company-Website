@@ -1,8 +1,8 @@
-<config>
-<modules>
-    <Magentotutorial_Configviewer>
-        <active>true</active>
-        <codePool>local</codePool>
-    </Magentotutorial_Configviewer>
-</modules>
-</config>
+<config>
+<modules>
+    <Magentotutorial_Configviewer>
+        <active>true</active>
+        <codePool>local</codePool>
+    </Magentotutorial_Configviewer>
+</modules>
+</config>
