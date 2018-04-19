@@ -319,23 +319,47 @@ class Mage_CatalogSearch_Model_Resource_Fulltext extends Mage_Core_Model_Resourc
         return $this;
     }
 
+    public function prepareSplits($queryText, $query)
+    {
+        $splitInText = array();
+        $words = Mage::helper('core/string')->splitWords($queryText, true, $query->getMaxQueryWords());
+        $words = array_values($words);
+        for($i = 0 ; $i < count($words) ; $i++)
+        {
+            $x = $words[$i];
+            $splitInText[] = $x;
+            for($j = 1 ; $j < count($words) - $i ; $j++)
+            {
+                $x .= " ".$words[$i+$j];
+                $splitInText[] = $x;
+            }
+
+        }
+        return $splitInText;
+    }
+
+
     /**
      * Prepare results for query
      *
      * @param Mage_CatalogSearch_Model_Fulltext $object
      * @param string $queryText
      * @param Mage_CatalogSearch_Model_Query $query
+     * @param array $synonymsInQuery
      * @return Mage_CatalogSearch_Model_Resource_Fulltext
      */
-    public function prepareResult($object, $queryText, $query)
+    public function prepareResult($object, $queryText, $query, $synonymsInQuery)
     {
-        $adapter = $this->_getWriteAdapter();
+
         $searchType = $object->getSearchType($query->getStoreId());
 
         $preparedTerms = Mage::getResourceHelper('catalogsearch')
             ->prepareTerms($queryText, $query->getMaxQueryWords());
 
-        $bind = array();
+        foreach ($synonymsInQuery as $inQuery => $synonym)
+        {
+            $queryText = str_replace($inQuery, $synonym, $queryText);
+        }
         $like = array();
         $likeCond = '';
         if ($searchType == Mage_CatalogSearch_Model_Fulltext::SEARCH_TYPE_LIKE
@@ -348,12 +372,33 @@ class Mage_CatalogSearch_Model_Resource_Fulltext extends Mage_Core_Model_Resourc
             }
 
             if ($like) {
-                $likeCond = '(' . join(' OR ', $like) . ')';
+                $likeCond = '(' . join(' AND ', $like) . ')';
             }
-        }
 
+            $this->getResult($query, $searchType, $preparedTerms, $likeCond);
+
+            if(empty($this->_foundData)) {
+                $likeCond = '(' . join(' OR ', $like) . ')';
+                return $this->getResult($query, $searchType, $preparedTerms, $likeCond);
+            }
+
+            return $this;
+        }
+    }
+
+    /*
+        Split original function into two functions
+        first try to get the AND search results
+        if doesn't exist, try to get the OR search results
+        17-April-2018  Hao
+    */
+
+    public function getResult($query, $searchType, $preparedTerms, $likeCond)
+    {
+        $adapter = $this->_getWriteAdapter();
         $mainTableAlias = 's';
         $fields = array('product_id');
+        $bind = array();
 
         $select = $adapter->select()
             ->from(array($mainTableAlias => $this->getMainTable()), $fields)
@@ -385,6 +430,13 @@ class Mage_CatalogSearch_Model_Resource_Fulltext extends Mage_Core_Model_Resourc
 
         return $this;
     }
+
+
+
+
+
+
+
 
     /**
      * Retrieve found data
