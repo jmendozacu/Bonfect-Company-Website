@@ -105,6 +105,7 @@ class Mage_CatalogSearch_Helper_Data extends Mage_Core_Helper_Abstract
 
     /**
      * Retrieve synonyms in query based on SearchTerms
+     * Hao created 19/04/2018
      * @param array $splitInText
      * @return array $synonymsInQuery
      */

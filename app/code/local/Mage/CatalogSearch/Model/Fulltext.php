@@ -120,7 +120,7 @@ class Mage_CatalogSearch_Model_Fulltext extends Mage_Core_Model_Abstract
 
     /**
      * Prepare results for query
-     *
+     * Hao modified 19/04/2018
      * @param Mage_CatalogSearch_Model_Query $query
      * @return Mage_CatalogSearch_Model_Fulltext
      */
@@ -132,12 +132,13 @@ class Mage_CatalogSearch_Model_Fulltext extends Mage_Core_Model_Abstract
         $queryText = Mage::helper('catalogsearch')->getQueryText();
         if ($query->getSynonymFor()) {
             $queryText = $query->getSynonymFor();
+            $this->getResource()->prepareResult($this, $queryText, $query);
         }
         else {
             $splitInText = $this->getResource()->prepareSplits($queryText, $query);
             $synonymsInQuery = Mage::helper('catalogsearch')->getSynonyms($splitInText);
-        }
-        $this->getResource()->prepareResult($this, $queryText, $query, $synonymsInQuery);
+            $this->getResource()->prepareResult($this, $queryText, $query, $synonymsInQuery);
+        }//added else
         return $this;
     }
 

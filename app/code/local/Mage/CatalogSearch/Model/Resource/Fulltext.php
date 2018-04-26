@@ -319,6 +319,17 @@ class Mage_CatalogSearch_Model_Resource_Fulltext extends Mage_Core_Model_Resourc
         return $this;
     }
 
+
+    /**
+     * Prepare to split the query
+     * Hao created 19/04/2018
+     *
+     * @param string $queryText
+     * @param Mage_CatalogSearch_Model_Query $query
+     *
+     * @return array $splitInText
+     */
+
     public function prepareSplits($queryText, $query)
     {
         $splitInText = array();
@@ -341,24 +352,26 @@ class Mage_CatalogSearch_Model_Resource_Fulltext extends Mage_Core_Model_Resourc
 
     /**
      * Prepare results for query
-     *
+     * Hao modified 19/04/2018
      * @param Mage_CatalogSearch_Model_Fulltext $object
      * @param string $queryText
      * @param Mage_CatalogSearch_Model_Query $query
      * @param array $synonymsInQuery
      * @return Mage_CatalogSearch_Model_Resource_Fulltext
      */
-    public function prepareResult($object, $queryText, $query, $synonymsInQuery)
+    public function prepareResult($object, $queryText, $query, $synonymsInQuery = null)
     {
 
         $searchType = $object->getSearchType($query->getStoreId());
 
         $preparedTerms = Mage::getResourceHelper('catalogsearch')
             ->prepareTerms($queryText, $query->getMaxQueryWords());
+        if(!empty($synonymsInQuery)){
+            foreach ($synonymsInQuery as $inQuery => $synonym)
+            {
+                $queryText = str_replace($inQuery, $synonym, $queryText);
+            }
 
-        foreach ($synonymsInQuery as $inQuery => $synonym)
-        {
-            $queryText = str_replace($inQuery, $synonym, $queryText);
         }
         $like = array();
         $likeCond = '';
@@ -386,12 +399,18 @@ class Mage_CatalogSearch_Model_Resource_Fulltext extends Mage_Core_Model_Resourc
         }
     }
 
-    /*
-        Split original function into two functions
-        first try to get the AND search results
-        if doesn't exist, try to get the OR search results
-        17-April-2018  Hao
-    */
+
+    /**
+     * Split original function into two functions
+     * first try to get the AND search results
+     * if doesn't exist, try to get the OR search results
+     * Hao created 17/04/2018
+     * @param Mage_CatalogSearch_Model_Query $query
+     * @param string $likeCond
+     * @param Mage_CatalogSearch_Model_Fulltext $searchType
+     * @param array $preparedTerms
+     * @return Mage_CatalogSearch_Model_Resource_Fulltext
+     */
 
     public function getResult($query, $searchType, $preparedTerms, $likeCond)
     {
