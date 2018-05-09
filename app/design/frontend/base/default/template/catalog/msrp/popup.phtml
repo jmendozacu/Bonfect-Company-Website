@@ -37,13 +37,13 @@
     ?>
 
     <?php if($action=="cmsindexindex") {  ?>
-    
 
-    <div class="grid-images productView-related-carousal" style="margin:20px 0;">
+
+    <div class="grid-images productView-related-carousal" style="margin:20px auto 0;">
         <div class="row">
             <p class="youmay-heading">You may also be interested in the following products</p>
             <div id="product-related-slider" class="owl-carousel owl-theme">
-                <?php 
+                <?php
 
                     $_productCollection = Mage::getModel('catalog/product')
                     ->getCollection()
@@ -56,28 +56,28 @@
                             <div class="item">
                                 <div class="grid1">
                                     <a href="<?php  echo $product->getProductUrl(); ?>"> <img src="<?php echo $product->getImageUrl(); ?>"/></a>
-                                    <h3><?php echo $product->getName(); ?></h3>
+                                    <!--<h3><?php echo $product->getName(); ?></h3>
 
                                     <div class="cat-price-moreInfo-row">
                                         <div class="price-box">
-                                            <?php $specialprice = Mage::getModel('catalog/product')->load($product->getId())->getSpecialPrice(); 
+                                            <?php $specialprice = Mage::getModel('catalog/product')->load($product->getId())->getSpecialPrice();
                                     echo Mage::helper('core')->formatPrice($specialprice , true); ?>
                                         </div>
                                         <div class="cat-more-infoDiv">
                                             <a href="<?php  echo $product->getProductUrl(); ?>">MORE INFO</a>
                                         </div>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
-                <?php } ?> 
-            </div>   
+                <?php } ?>
+            </div>
         </div>
     </div>
     <?php   } ?>
 
 
 
-            
+
             <script type="text/javascript">
             jQuery(function($){
                 $("#product-related-slider").owlCarousel({
@@ -116,12 +116,12 @@ if($action=="catalogproductview") {  ?>
             <h2>Shipping Information</h2>
                 <div class="ship-text">
                 <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('shipping-information')->toHtml(); ?>
-                </div> 
-        </div> 
+                </div>
+        </div>
 
-   
 
-            <?php 
+
+            <?php
             $product = Mage::registry('current_product');
             $product_id = $product->getId();
             $model = Mage::getModel('catalog/product');
@@ -136,12 +136,12 @@ if($action=="catalogproductview") {  ?>
                 <div class="row">
                     <p class="youmay-heading">Related  Products</p>
                     <div id="product-related-slider1" class="owl-carousel owl-theme">
-                        <?php 
+                        <?php
                         if (count($allRelatedProductIds)>0) {
-                             
-                        foreach ($allRelatedProductIds as $id) 
-                          {  
-                            $relatedProduct = $model->load($id);        
+
+                        foreach ($allRelatedProductIds as $id)
+                          {
+                            $relatedProduct = $model->load($id);
                              ?>
                                     <div class="item">
                                         <div class="grid1">
@@ -161,13 +161,13 @@ if($action=="catalogproductview") {  ?>
                                     </div>
                         <?php }  }else{
                             echo "<h1>No Related  Products </h1>";
-                            } ?> 
-                    </div>   
+                            } ?>
+                    </div>
                 </div>
             </div>
  </div>
-  
- 
+
+
 <?php  } ?>
 
  <script type="text/javascript">
