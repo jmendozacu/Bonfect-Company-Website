@@ -4,33 +4,19 @@
     $footer = Mage::getStoreConfig('porto_settings/footer',$code);
     $footer_class = ($footer['fixed_position_footer_enabled'])?" fixed-position":"";
 ?>
+ 
 
-<div class="homepage-bar" style="background-color:#808080;border-bottom:2px solid #f2485d;padding:11px 0;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4" style="border-color:#808080;">
-                <i class="icon-truck" style="font-size:36px;color:#fff;"></i><div class="text-area"><h3 style="color:#fff;">FAST & EASY SHIPPING</h3><p style="color:#fff;">FAST FROM OUR WAREHOUSE TO YOUR DOOR</p></div>
-            </div>
-            <div class="col-md-4" style="border-color:#808080;">
-                <i class="icon-dollar" style="color:#fff;"></i><div class="text-area"><h3 style="color:#fff;">POPULAR BRANDS</h3><p style="color:#fff;">100% value for money.</p></div>
-            </div>
-            <div class="col-md-4" style="border-color:#808080;">
-                <i class="icon-lifebuoy" style="font-size:32px;color:#fff;"></i><div class="text-area"><h3 style="color:#fff;">FRIENDLY CUSTOMER SUPPORT</h3><p style="color:#fff;">To assist with any query you might have.</p></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--<div class="home-brand-slider">
+<div class="home-brand-slider">
     <div class="container">
         <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('brand-slider')->toHtml(); ?>
     </div>
-</div>-->
+</div>
 <!-- 2017 -->
-
-
+  
+ 
 
 <!-- 2017 -->
-
+ 
 <div class="1234567 footer-container <?php echo $footer_class; ?>">
 
     <div class="footer">
@@ -147,7 +133,7 @@
     ?>
         <div class="footer-bottom">
             <div class="container">
-
+          
                 <?php
                 if($footer['footer_logo']){
                 ?>
@@ -176,8 +162,7 @@
     ?>
     </div>
 </div>
-<div style="display:none; text-align:center; background-color:#fff !important; color:#999 !important; font-size:13px; padding:5px;"><a href="http://www.graceweb.com.au/" title="Magento Web Design Melbourne, Berwick, Narre Warren, Cranbourne and Frankston" style="color:#999 !important;">graceWEB</a></div>
-<div style="display:none; text-align:center; background-color:#fff !important; color:#999 !important; font-size:13px; padding:5px;"><a href="http://www.bonfect.com.au/" title="Sorry GraceWEB, static frontend blocks don't always solve the problems, Hao Fang" style="color:#999 !important;">Bonfect IT Group</a></div>
+<div style="text-align:center; background-color:#fff !important; color:#999 !important; font-size:13px; padding:5px;"><a href="http://www.graceweb.com.au/" title="Magento Web Design Melbourne, Berwick, Narre Warren, Cranbourne and Frankston" style="color:#999 !important;">graceWEB</a></div>
 <a href="#" id="totop"><i class="icon-up-open"></i></a>
 <script type="text/javascript">
     var windowScroll_t;

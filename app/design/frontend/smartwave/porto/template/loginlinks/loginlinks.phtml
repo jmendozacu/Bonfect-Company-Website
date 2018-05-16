@@ -1,0 +1,48 @@
+<?php $baseurl=Mage::getBaseUrl();?>
+<div class="sign-area">
+    <a href="javascript:void(0);" class="account-icon"><i class="fa fa-user"></i></a>
+    <div class="login-account">Account</div>
+    <div class="log-in">
+        <?php echo $this->getChildHtml('topLinks'); ?>
+    </div>
+        <div class="topLoginContent block-content theme-border-color">
+            <div class="inner-wrapper" style="margin:20px;">
+                <div class="welcome-msg"><?php echo $this->getChildHtml('welcome'); ?></div>
+                <div class="sign-btn">
+                    <div class="btn btn-default">
+                        <?php echo $this->getChildHtml('topLinks'); ?>
+                    </div>
+                </div>
+                <ul class="account-link-lists">
+                    <li class="account-links account-links-title">
+                        <a href="<?php echo $baseurl."customer/account/index/"?>">My Account ></a>
+                    </li>
+                    <li class="account-links">
+                        <a href="<?php echo $baseurl."customer/account/edit/"?>">Account Info Change</a>
+                    </li>
+                    <li class="account-links">
+                        <a href="<?php echo $baseurl."customer/address/"?>">Address Book</a>
+                    </li>
+                    <li class="account-links">
+                        <a href="<?php echo $baseurl."sales/order/history/"?>">Order History</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+
+
+
+
+<script type="text/javascript">
+    jQuery(function($){
+        $('.sign-area').mouseover(function(e){
+            $(this).children('.topLoginContent').fadeIn(200);
+            return false;
+        }).mouseleave(function(e){
+            $(this).children('.topLoginContent').fadeOut(200);
+            return false;
+        });
+    });
+</script>
+</div>

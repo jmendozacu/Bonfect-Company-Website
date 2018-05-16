@@ -34,8 +34,8 @@
             <action method="addCss"><stylesheet>css/animate.css</stylesheet></action>
             <action method="addItem"><type>skin_js</type><name>js/porto.js</name></action>
             <action method="addJs"><script>smartwave/bootstrap/js/bootstrap.min.js</script></action>
-
-            <action method="removeItem"><type>skin_css</type><name>css/styles.css</name></action>
+            
+            <action method="removeItem"><type>skin_css</type><name>css/styles.css</name></action> 
             <action method="addCss"><stylesheet>icons/css/porto.css</stylesheet></action>
             <action method="addCss"><stylesheet>icons/css/animation.css</stylesheet></action>
             <action method="addCss" ifconfig="porto_settings/general/rtl" condition="0"><stylesheet>css/local.css</stylesheet></action>
@@ -66,11 +66,6 @@
 			<block type="core/template" name="compare_link">
 				<action method="setTemplate" ifconfig="porto_settings/product_compare/show_link"><template>catalog/product/compare/compare_link.phtml</template></action>
 			</block>
-            <block type="core/template" name="loginlinks">
-                <action method="setTemplate"><template>loginlinks/loginlinks.phtml</template></action>
-                <block type="page/template_links" name="top.links" as="topLinks"/>
-                <block type="page/html_welcome" name="welcome" as="welcome"/>
-            </block>
             <block type="checkout/cart_sidebar" name="minicart">
                 <action method="setTemplate"><template>checkout/cart/minicart.phtml</template></action>
                 <action method="addItemRender"><type>default</type><block>checkout/cart_item_renderer</block><template>checkout/cart/minicart/default.phtml</template></action>
@@ -149,7 +144,7 @@
             <block type="cms/block" name="custom_side_block" after="-"><action method="setBlockId"><block_id>porto_left_side_category</block_id></action></block>
         </reference>
     </catalog_category_default>
-
+    
     <catalog_category_layered>
         <reference name="root">
             <action method="setTemplate" ifconfig="porto_settings/category/page_layout" condition="one_column"><template>page/1column.phtml</template></action>

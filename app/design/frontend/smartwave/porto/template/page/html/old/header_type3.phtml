@@ -5,30 +5,30 @@
     $custom_block = Mage::getStoreConfig('porto_settings/header/static_block', $code);
 ?>
 <div class="header-container type3">
-    <!--<div class="top-links-container">
+    <div class="top-links-container">
         <div class="top-links container">
             <?php
-                //$store_currency = $this->getChildHtml('store_currency');
-                //$store_language = $this->getChildHtml('store_language');
-				//$compare_link = $this->getChildHtml('compare_link');
+                $store_currency = $this->getChildHtml('store_currency');
+                $store_language = $this->getChildHtml('store_language');
+				$compare_link = $this->getChildHtml('compare_link');
             ?>
-            <?php //echo $store_currency; ?>
-            <?php //if($store_currency && $store_language):?>
+            <?php echo $store_currency; ?>
+            <?php if($store_currency && $store_language):?>
             <span class="split"></span>
-            <?php //endif; ?>
-            <?php //echo $store_language; ?>
-            <?php //if(($store_currency || $store_language) && $compare_link):?>
+            <?php endif; ?>
+            <?php echo $store_language; ?>
+            <?php if(($store_currency || $store_language) && $compare_link):?>
             <span class="split"></span>
-            <?php //endif; ?>
-			<?php// echo $compare_link; ?>
+            <?php endif; ?>
+			<?php echo $compare_link; ?>
             <div class="top-links-area">
-                <div class="top-links-icon"><a href="javascript:void(0)"><?php //echo $this->__("links"); ?></a></div>
-                <?php //echo $this->getChildHtml('topLinks'); ?>
+                <div class="top-links-icon"><a href="javascript:void(0)"><?php echo $this->__("links"); ?></a></div>
+                <?php echo $this->getChildHtml('topLinks'); ?>
             </div>
-            <p class="welcome-msg"><?php //echo $this->getChildHtml('welcome'); ?> <?php //echo $this->getAdditionalHtml(); ?></p>
+            <p class="welcome-msg"><?php echo $this->getChildHtml('welcome'); ?> <?php echo $this->getAdditionalHtml(); ?></p>
             <div class="clearer"></div>
         </div>
-    </div>-->
+    </div>
     <div class="header container">
         <?php if ($this->getIsHomePage()):?>
         <h1 class="logo"><strong><?php echo $this->getLogoAlt(); ?></strong><a href="<?php echo $this->getUrl(''); ?>" title="<?php echo $this->getLogoAlt(); ?>" class="logo"><img src="<?php echo $this->getLogoSrc(); ?>" alt="<?php echo $this->getLogoAlt(); ?>" /></a></h1>
@@ -37,7 +37,6 @@
         <?php endif; ?>
         <div class="cart-area">
             <?php echo '<div class="custom-block">'.$this->getLayout()->createBlock('cms/block')->setBlockId($custom_block)->toHtml().'</div>'; ?>
-            <?php echo $this->getChildHtml('loginlinks'); ?>
             <?php echo $this->getChildHtml('minicart'); ?>
         </div>
         <div class="search-area">
@@ -49,7 +48,7 @@
     </div>
     <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('porto_custom_menu')->toHtml(); ?>
     <!-- <?php echo $this->getChildHtml('topMenu') ?> -->
-
+    
 
 
 
