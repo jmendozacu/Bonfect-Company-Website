@@ -13,3 +13,4 @@ app code/local/
 
 ## homepage
 
+![alt text] (https://github.com/vokvag/Bonfect-Company-Website/blob/master/screencapture-bonfect-au.png)
