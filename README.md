@@ -1,5 +1,5 @@
 # Bonfect Website
-This is a partial fork from Bonfect FTP Server whish is hosted by crazydomains.
+This is a partial fork from Bonfect FTP Server which is hosted by crazydomains.
 
 ## Introduction
 This repository contains most parts of my work for the website. The website is built in Magento, established by Erick. My part is the design of frontpage, headers, css, color scheme and troubleshoot in the models. As Bonfect signed a contract before our building the website, Boss chooses to continue their games and buy another one. The maintainence will be stoped soon.
