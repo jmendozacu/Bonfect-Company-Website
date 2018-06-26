@@ -1,36 +1,36 @@
-<?php
-$baseurl = Mage::getBaseUrl();
-$basedir = Mage::getBaseDir();
-$dir = $basedir."/media/wysiwyg/hotbrands/";
-$filenames = glob($dir."*.jpg");
-
-?>
-<div class="new-hot-brand-con">
-    <div class="module-body">
-        <div class="brand-list">
-            <ul class="brand-item-body">
-            <?php
-                foreach ($filenames as $filename) {
-                    $imagename = str_replace(".jpg", "", str_replace($dir, "", $filename));
-            ?>
-                    <li class="brand-item">
-                        <div class="brand-img">
-                            <img src="<?php echo str_replace($basedir, $baseurl, $filename)?>" alt="" />
-                        </div>
-                        <a class="brand-mask" href="<?php echo $baseurl. "catalogsearch/result/?q=". str_replace("&","%26",$imagename)?>">
-                            <div class="coupon">
-                                <span><?php echo $imagename?></span>
-                            </div><div class="enter">
-                                <span>Click in</span>
-                            </div>
-                        </a>
-                    </li>
-
-            <?php
-                }
-            ?>
-
-            </ul>
-        </div>
-    </div>
-</div>
+<?php
+$baseurl = Mage::getBaseUrl();
+$basedir = Mage::getBaseDir();
+$dir = $basedir."/media/wysiwyg/hotbrands/";
+$filenames = glob($dir."*.jpg");
+
+?>
+<div class="new-hot-brand-con">
+    <div class="module-body">
+        <div class="brand-list">
+            <ul class="brand-item-body">
+            <?php
+                foreach ($filenames as $filename) {
+                    $imagename = str_replace(".jpg", "", str_replace($dir, "", $filename));
+            ?>
+                    <li class="brand-item">
+                        <div class="brand-img">
+                            <img src="<?php echo str_replace($basedir, $baseurl, $filename)?>" alt="" />
+                        </div>
+                        <a class="brand-mask" href="<?php echo $baseurl. "catalogsearch/result/?q=". str_replace("&","%26",$imagename)?>">
+                            <div class="coupon">
+                                <span><?php echo $imagename?></span>
+                            </div><div class="enter">
+                                <span>Click in</span>
+                            </div>
+                        </a>
+                    </li>
+
+            <?php
+                }
+            ?>
+
+            </ul>
+        </div>
+    </div>
+</div>

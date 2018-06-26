@@ -1,0 +1,56 @@
+<?php
+    $_Collection = Mage::getModel('catalog/product')
+    ->getCollection()
+    ->addAttributeToSort('created_at', 'DESC')
+    ->addAttributeToSelect('*')
+    ->addAttributeToFilter(array(
+        array (
+            'attribute' => 'image',
+            'nlike' => 'no_selection'
+        ),
+        array (
+            'attribute' => 'image',
+            'notnull' => true
+        ),
+        array (
+            'attribute' => 'image',
+            'neq' => ''
+        ),
+        array (
+            'attribute' => 'image',
+            'like' => '%/%/%'
+        ),
+    ))
+    ->setPageSize(20)
+    ->load();
+?>
+<div class="new-products">
+    <div class="new-products-contents">
+        <?php
+        $i = 0;
+        foreach ($_Collection as $key => $product){
+            if ($i % 5==0) {
+        ?>
+                <ul class="new-products-line">
+        <?php
+            }
+            $i = $i + 1;
+        ?>
+            <li class="new-products-item zoom-wrap">
+                <a class="new-products-card-item border-change" href="<?php echo $product->getProductUrl(); ?>">
+                    <div class="new-products-title"><?php echo $product->getName(); ?></div>
+                    <div class="new-products-img zoom-in">
+                        <img src="<?php echo $product->getImageUrl();?>"/>
+                    </div>
+                </a>
+            </li>
+            <?php
+            if ($i % 5==0) {
+            ?>
+                </ul>
+        <?php
+            }
+        }
+        ?>
+    </div>
+</div>

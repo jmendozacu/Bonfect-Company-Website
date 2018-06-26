@@ -8288,3 +8288,6 @@ span.login_for_price {
 .header>.logo {
     max-width: 250px;
 }
+
+.product-info .price-excluding-tax .price{font-size:18px;font-weight:normal;}
+.product-info .price-including-tax .price{font-size:30px;font-weight:bold;}
